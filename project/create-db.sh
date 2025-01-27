@@ -1,0 +1,1 @@
+codeql database create demo-db --language=c-cpp --overwrite

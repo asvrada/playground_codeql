@@ -1,0 +1,4 @@
+demo-db/
+_codeql**/
+_codeql_detected_source_root
+build/
